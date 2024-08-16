@@ -18,3 +18,10 @@
 ## 📝 Notes
 
 - [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+
+- #output
+
+https://github.com/user-attachments/assets/be345712-fe8f-4c86-bc1c-efb3cb0119d1
+
+
+- 
